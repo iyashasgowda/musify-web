@@ -71,5 +71,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### License
 
-Source code is licensed under the [Apache License 2.0](https://github.com/iyashasgowda/musify-web/blob/master/LICENSE)
+Source code is licensed under [Apache License 2.0](https://github.com/iyashasgowda/musify-web/blob/master/LICENSE)
+
 Contents of this site are © 2022 Yashas Gowda. All rights reserved.
