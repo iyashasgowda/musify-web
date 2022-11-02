@@ -1,0 +1,40 @@
+html,
+body {
+  height: 100vh;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+  font-family: "Quicksand", sans-serif;
+  overflow: hidden;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+html h1,
+html h2,
+html h3,
+html h4,
+html h5,
+html p,
+body h1,
+body h2,
+body h3,
+body h4,
+body h5,
+body p {
+  margin: 0;
+  padding: 0;
+  user-select: none;
+}
+html ul,
+html li,
+html img,
+html select,
+body ul,
+body li,
+body img,
+body select {
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+/*# sourceMappingURL=app.css.map */
