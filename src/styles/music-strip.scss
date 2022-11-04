@@ -1,0 +1,19 @@
+.music-strip-container {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+  z-index: 3;
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  background-color: transparent;
+
+  .music-strip {
+    width: 90%;
+    margin: 24px;
+    height: 72px;
+    border-radius: 24px;
+    background: rgba(var(--text-color-rgb), 0.8);
+    backdrop-filter: saturate(180%) blur(10px);
+  }
+}
